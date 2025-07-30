@@ -1,0 +1,80 @@
+{
+  "key_bindings": {
+    "toggle_auto_aim": "0",
+    "toggle_auto_shoot": "8",
+    "toggle_recoil_compensation": "9",
+    "increase_recoil_strength": "+",
+    "decrease_recoil_strength": "-"
+  },
+  "radius_settings": {
+    "auto_shoot_horizontal_radius": 22,
+    "auto_shoot_vertical_radius": 22,
+    "auto_aim_horizontal_radius": 600,
+    "auto_aim_vertical_radius": 600,
+    "auto_aim_detection_area_x": 900,
+    "auto_aim_detection_area_y": 900
+  },
+  "color_ranges": {
+    "neon_pink1": {
+      "lower": [
+        145,
+        100,
+        150
+      ],
+      "upper": [
+        165,
+        255,
+        255
+      ]
+    },
+    "neon_pink2": {
+      "lower": [
+        135,
+        120,
+        180
+      ],
+      "upper": [
+        155,
+        255,
+        255
+      ]
+    },
+    "magenta": {
+      "lower": [
+        140,
+        150,
+        200
+      ],
+      "upper": [
+        170,
+        255,
+        255
+      ]
+    }
+  },
+  "smoothing_factor": 0.9,
+  "snap_sensitivity": 0.35705882352941176,
+  "center_bias_x": 0.0,
+  "center_bias_y": 0.0,
+  "instant_snap_mode": true,
+  "precise_center_mode": true,
+  "recoil_vertical": 0.2823529411764705,
+  "recoil_horizontal": -0.11764705882352944,
+  "min_area": 907,
+  "scale_factor": 0.4,
+  "fill_strength": 2.0,
+  "pixel_expansion": 3.0,
+  "contour_fill_aggressive": 3.0,
+  "capture_zone_size": 22.705882352941174,
+  "shoot_delay": 1,
+  "max_aim_distance": 300,
+  "auto_shoot_radius_horizontal": 15,
+  "auto_shoot_radius_vertical": 15,
+  "recoil_multiplier": 10,
+  "screen_resolution": [
+    1920,
+    1080
+  ],
+  "resolution_fixed": true,
+  "independent_aim_recoil": true
+}
